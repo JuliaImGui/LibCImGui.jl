@@ -1,5 +1,9 @@
 # LibCImGui
 
+### This repository is deprecated, development of LibCImGui.jl continues in the [CImGui.jl](https://github.com/Gnimuc/CImGui.jl) monorepo.
+
+---
+
 [![CI](https://github.com/JuliaImGui/LibCImGui.jl/actions/workflows/ci.yml/badge.svg)](https://github.com/JuliaImGui/LibCImGui.jl/actions/workflows/ci.yml)
 [![TagBot](https://github.com/JuliaImGui/LibCImGui.jl/actions/workflows/TagBot.yml/badge.svg)](https://github.com/JuliaImGui/LibCImGui.jl/actions/workflows/TagBot.yml)
 [![Coverage](https://codecov.io/gh/JuliaImGui/LibCImGui.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/JuliaImGui/LibCImGui.jl)
